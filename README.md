@@ -24,8 +24,7 @@ A complete data pipeline that fetches live news headlines, analyzes their sentim
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
+    (https://github.com/your-username/your-repo-name.git)
     ```
 2.  **Install dependencies:**
     ```bash
