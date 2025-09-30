@@ -1,6 +1,3 @@
-# Real-Time-news-Sentiment-Dashboard
-🚀 Real-time news sentiment analysis dashboard using PySpark for the ML pipeline and Streamlit for interactive visualization. Fetches live data from NewsAPI.
-
 # Real-Time News Sentiment Analysis with PySpark and Streamlit
 
 A complete data pipeline that fetches live news headlines, analyzes their sentiment using a PySpark ML model, and displays the results on an interactive Streamlit dashboard.
